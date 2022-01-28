@@ -1,4 +1,4 @@
-# hepl-me-app
+# help-me-app
 
 ![image](https://user-images.githubusercontent.com/63444224/147907320-72a8b52a-94a9-49e7-823a-1fdd00e8b6d1.png)
 ![image](https://user-images.githubusercontent.com/63444224/147907347-60b00129-aa59-40f4-aba6-bbe4f6a308d3.png)
